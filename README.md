@@ -10,4 +10,7 @@ You just react to a message with a flag then the bot will translate and send the
 
 If you want to use this for your own bot, when you clone this make sure to check the requirements file and also make a ".env" file and put this line of code: <br>
 "TOKEN=TokenOfYourBOt"<br><br><br>
-If you need any help feel free to contact me on my discord: <h4>madY#6351</h4>
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+You can also just donwload the translatingDiscordBot.exe file then run it. It will ask you for your Bot token, paste it there then your bot will go online.
+![image](https://github.com/yllberisha/Translating_Discord_Bot/assets/102769384/01efc5bc-b9cc-4e12-9d07-178d41ffb70f)
